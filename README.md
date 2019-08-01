@@ -8,9 +8,9 @@ We have implemented our model using Tensorflow and we run our code on Ubuntu 18.
  In the paper, we proposed a novel method named as **Collaborative Preference Embedding**(CPE) which can directly deal with sparse and insufficient user preference information. Specifically, we designed two schemes specifically against the limited generalization ability in terms of sparse labels.
 # Methodology
 ## Framework
-  ![img]()
+  ![img](https://github.com/statusrank/CPE/blob/master/img/framework.png)
 ## Why we optimize the margin distribution.
-  ![img]()
+  ![img](https://github.com/statusrank/CPE/blob/master/img/figure1.png)
   
 ## loss function
 
