@@ -12,7 +12,6 @@ We have implemented our model using Tensorflow and we run our code on Ubuntu 18.
 ## Why we optimize the margin distribution.
   ![img](https://github.com/statusrank/CPE/blob/master/img/figure1.png)
   
-## loss function
 
 # Experiment
   We conduct comprehensive experiments to demonstrate the superiority of CPE. Empirical results on three different benchmark datasets, including MovieLens-100K, CiteULike-T and BookCrossing, consistently show that our method can achieve reasonable generalization performance even when suffering sparse preference information.
