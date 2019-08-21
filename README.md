@@ -26,6 +26,8 @@ This implementation is based on [CML](https://github.com/changun/CollMetric). We
   - scipy
   - numpy
   - scikit-learn
+  - functools
+  - toolz
 
 # Citation
 Please cite our paper if you use this code in your own work.
