@@ -1,7 +1,7 @@
 # Collaborative Preference Embedding against Sparse labels
 > Shilong Bao, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang. ACM Conference on Multimedia (ACM MM), 2019. 
 
-We have implemented our model using Tensorflow and we run our code on Ubuntu 18.04 system with CPU. Since AdaGrad does not seem to work on GPU, you can try using AdamOptimizer instead.
+We have implemented our model using Tensorflow and we run our code on Ubuntu 18.04 system with CPU, since AdaGrad does not seem to work on GPU.
 
 
 
