@@ -20,7 +20,7 @@ We have implemented our model using Tensorflow and we run our code on Ubuntu 18.
 This implementation is based on [CML](https://github.com/changun/CollMetric). We sincerely thank the contributions of the authors.
 
 # Requirements
-  - python3 
+  - python >= 3.5
   - Tensorflow
   - tqdm
   - scipy
