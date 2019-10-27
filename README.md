@@ -33,11 +33,11 @@ This implementation is based on [CML](https://github.com/changun/CollMetric). We
 Please cite our paper if you use this code in your own work.
 > @inproceedings{bao2019, 
 
-title={Collaborative Preference Embedding against Sparse Labels}, 
+> title={Collaborative Preference Embedding against Sparse Labels}, 
 
-author={Shilong Bao, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang}, 
+> author={Shilong Bao, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang}, 
 
-booktitle={2019 ACM Conference on Multimedia}, 
+> booktitle={2019 ACM Conference on Multimedia}, 
 
-year={2019} 
+> year={2019} 
 }
