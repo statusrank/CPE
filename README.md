@@ -20,7 +20,7 @@ We have implemented our model using Tensorflow and we run our code on Ubuntu 18.
 This implementation is based on [CML](https://github.com/changun/CollMetric). We sincerely thank the contributions of the authors.
 
 # Requirements
-  - python3 
+  - python >= 3.5
   - Tensorflow
   - tqdm
   - scipy
@@ -31,3 +31,13 @@ This implementation is based on [CML](https://github.com/changun/CollMetric). We
 
 # Citation
 Please cite our paper if you use this code in your own work.
+> @inproceedings{bao2019, 
+
+> title={Collaborative Preference Embedding against Sparse Labels}, 
+
+> author={Shilong Bao, Qianqian Xu, Ke Ma, Zhiyong Yang, Xiaochun Cao and Qingming Huang}, 
+
+> booktitle={2019 ACM Conference on Multimedia}, 
+
+> year={2019} 
+}
