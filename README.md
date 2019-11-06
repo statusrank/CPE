@@ -31,7 +31,7 @@ This implementation is based on [CML](https://github.com/changun/CollMetric). We
 
 # Citation
 Please cite our paper if you use this code in your own work.
-'''
+```
 @inproceedings{DBLP:conf/mm/BaoXMYCH19,
   author    = {Shilong Bao and
                Qianqian Xu and
@@ -45,4 +45,4 @@ Please cite our paper if you use this code in your own work.
   pages     = {2079--2087},
   year      = {2019}
 }
-'''
+```
