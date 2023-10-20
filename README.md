@@ -3,7 +3,9 @@
 
 We have implemented our model using Tensorflow and we run our code on Ubuntu 18.04 system with CPU, since AdaGrad does not seem to work on GPU.
 
-
+# To All Interested Developers (2023/10/20)
+I have been developing an easy-to-use pytorch library of CML-based recommendation systems to let everyone use CML-based methods easily, where our study CPE has been included.
+Please see [LibCML](https://github.com/statusrank/LibCML) for more details.
 
 # Abstract
  In the paper, we proposed a novel method named as **Collaborative Preference Embedding**(CPE) which can directly deal with sparse and insufficient user preference information. Specifically, we designed two schemes specifically against the limited generalization ability in terms of sparse labels.
